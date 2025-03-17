@@ -206,5 +206,4 @@
 {"type": "Feature","geometry":{"coordinates": [-0.098303,51.591337],"type":"Point"},"properties":{"Address":"N156HL","name":"Camilla","hfrecnum":"8120","Event":"All Good Bookshop","fldsize":"6.3","fldtype":"Point","id":"457338120","_umap_options":{"showLabel": 0}}},
 {"type": "Feature","geometry":{"coordinates": [-0.118635,51.600657],"type":"Point"},"properties":{"Address":"N226AA","name":"Allegra","hfrecnum":"8121","Event":"All Good Bookshop","fldsize":"6.3","fldtype":"Point","id":"457338121","_umap_options":{"showLabel": 0}}},
 {"type": "Feature","geometry":{"coordinates": [-0.107305,51.605478],"type":"Point"},"properties":{"Address":"N227DA","name":"Lou","hfrecnum":"8122","Event":"All Good Bookshop","fldsize":"6.3","fldtype":"Point","id":"457338122","_umap_options":{"showLabel": 0}}},
-{"type": "Feature","geometry":{"coordinates": [-0.107305,51.605478],"type":"Point"},"properties":{"Address":"N225HT","name":"M.","hfrecnum":"8123","Event":"All Good Bookshop","fldsize":"6.3","fldtype":"Point","id":"457338123","_umap_options":{"showLabel": 0}}}
-]}
+{"type": "Feature","geometry":{"coordinates": [-0.107305,51.605478],"type":"Point"},"properties":{"Address":"N225HT","name":"M.","hfrecnum":"8123","Event":"All Good Bookshop","fldsize":"6.3","fldtype":"Point","id":"457338123","_umap_options":{"showLabel": 0}}}]}
