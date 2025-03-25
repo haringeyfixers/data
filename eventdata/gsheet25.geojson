@@ -1,4 +1,4 @@
- {"type":"FeatureCollection","features":[
+{"type":"FeatureCollection","features":[
 {"type": "Feature","geometry":{"coordinates": [-0.12799,51.565411],"type":"Point"},"properties":{"Address":"N19","name":"m","hfrecnum":"9210","TimeAndDate":"Sat Mar 22 2025","Venue":"WGR Wood Green R","Category":"Lamp","fldsize":"6.3","fldtype":"25","id":"5228","Outcome":"Not in the database","id":"5228"}},
 {"type": "Feature","geometry":{"coordinates": [-0.193483,51.542609],"type":"Point"},"properties":{"Address":"NW6 4SY","name":"Philip","hfrecnum":"9211","TimeAndDate":"Sat Mar 22 2025","Venue":"WGR Wood Green R","Category":"Kettle","fldsize":"6.3","fldtype":"25","id":"5229","Outcome":"Unable to fix","id":"5229"}},
 {"type": "Feature","geometry":{"coordinates": [-0.011368,51.574423],"type":"Point"},"properties":{"Address":"E10 7AA","name":"Dee","hfrecnum":"9212","TimeAndDate":"Sat Mar 22 2025","Venue":"WGR Wood Green R","Category":"Portable radio","fldsize":"6.3","fldtype":"25","id":"5230","Outcome":"Unable to fix","id":"5230"}},
